@@ -189,10 +189,6 @@ body {
 .firstpic img {
     height: 80rem;
     /* background-image: url("../marketing/pics/markus-spiske-sFydXGrt5OA-unsplash.jpg"); */
-    background-repeat: no-repeat;
-    background-size: 100%;
-    display: flex;
-    flex-direction: column;
     align-items: center;
     margin-bottom: 15px;
     z-index: 9999;
@@ -394,9 +390,9 @@ p {
     #toplogin:hover {
         color: black;
     }
-    .firstpic {
+    .firstpic img{
         height: 43rem;
-        background-image: url("../marketing/pics/kids.jpg");
+        /* background-image: url("../marketing/pics/kids.jpg"); */
         background-repeat: no-repeat;
         background-size: 100%;
         display: flex;
