@@ -195,6 +195,7 @@ body {
     flex-direction: column;
     align-items: center;
     margin-bottom: 15px;
+    z-index: 9999;
 }
 
 .firstpic h3 {
