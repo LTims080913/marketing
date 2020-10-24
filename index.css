@@ -186,9 +186,9 @@ body {
     color: black;
 }
 
-.firstpic {
+.firstpic img {
     height: 80rem;
-    background-image: url("../marketing/pics/kids.jpg");
+    /* background-image: url("../marketing/pics/markus-spiske-sFydXGrt5OA-unsplash.jpg"); */
     background-repeat: no-repeat;
     background-size: 100%;
     display: flex;
